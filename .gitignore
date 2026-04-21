@@ -1,0 +1,22 @@
+# Flutter
+build/
+.dart_tool/
+.packages
+
+# Logs & temp
+*.log
+*.lock
+
+# System files
+*.db
+*.sqlite
+*.sqlite3
+
+# Env / secrets
+.env
+
+# Chrome / cache junk
+*Web Data*
+*Cache*
+*LOCK*
+*LOG*
