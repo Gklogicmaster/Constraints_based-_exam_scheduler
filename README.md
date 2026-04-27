@@ -59,6 +59,5 @@ The system allows users to input subjects and available time. Based on the input
 2.Sai Srutthe Saravana Kumar
 3.Gaurav Kumar RK
 4.Siddharth Umashankar
-Siddharth U
 
 EOF
