@@ -1,7 +1,7 @@
  📚 Exam Preparation Planner / Scheduler
 
  📌 Overview  
-The Exam Preparation Planner/Scheduler is a C++-based application designed to help students organize and manage their study schedules effectively. It enables users to plan subjects, allocate time slots, and track their preparation progress, ensuring a structured and stress-free exam preparation process.
+The Exam Preparation Planner/Scheduler is a flutter-based application designed to help students organize and manage their study schedules effectively. It enables users to plan subjects, allocate time slots, and track their preparation progress, ensuring a structured and stress-free exam preparation process.
 
  🎯 Objective  
 The main objective of this project is to provide a simple and efficient tool for students to:
